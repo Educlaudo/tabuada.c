@@ -1,0 +1,26 @@
+This ready-to-run program prints the multiplication table of one integer.
+It uses only the C standard library. You do not need to modify its source code.
+
+Extract the ZIP, then use File > Open Folder in Visual Studio Code to open the
+multiplication-table-c folder. It contains main.c, instructions.txt and LICENSE.
+
+Install a C compiler and the C/C++ Compile Run extension if they are not ready.
+Compiler setup: https://github.com/danielpinto8zz6/c-cpp-compile-run/blob/HEAD/docs/COMPILER_SETUP.md
+On Windows and Linux, use your installed GCC compiler.
+On macOS, prepare Clang; open Settings, search for c-cpp-compile-run.c-compiler
+and set it to clang if the extension is not already configured for it.
+
+Open main.c and save it. Choose View > Command Palette, then C/C++: Compile & Run.
+On Windows or Linux, you can also run the program with F6.
+On macOS, use the menu.
+
+Click the terminal opened for the program. Type one integer from 0 to 1000 and
+press Enter. The program does not display a prompt before waiting for input.
+It prints ten lines, with multipliers from 1 to 10, then stops.
+Each line has the form X * i = result. X is your input and i is the multiplier.
+The command that launches the program and the number you type are not output
+printed by the program.
+
+To try another number, run the program again. Keep the source and the complete
+LICENSE; generated executables are not source files and need not be shared.
+This package does not include a README or a demonstration image.
