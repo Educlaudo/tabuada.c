@@ -2,13 +2,13 @@
 
 ## Sobre o Código:
 
-Esse código funciona com uma simples tabuada onde o usuário insere um número de 1 a 1000, e então é entregue a ele a tabuada daquele número, de 1 a 10. É ótimo para verificar a tabuada de um número rapidamente ou brincar de indentificar padrões.
+Esse código funciona com uma simples tabuada onde o usuário insere um número, e então é entregue a ele a tabuada daquele número, de 1 a 10. É ótimo para verificar a tabuada de um número rapidamente ou brincar de indentificar padrões.
 
 Funciona de uma maneira simples, o usuário da run no código e insere um número, e dá play, como mostrado na imagem:
 
 ![Exemplo de execução da tabuada do 560](./assets/tabuada_560.png)
 
-O código lê o número inserido pelo usuário e verifica se está entre 1 e 1000, por meio de um if, se estiver adequado o código prossegue normalmente (return 0) se não ele retorna 1 e para. Para printar a tabuada o código usa um loop for para multiplicar o número do usuário por i, que aumenta até chegar em dez e printa algo como: n * i = r. Sendo n o número inserido pelo usuário, i é o número da múltiplicação (1 a 10) e r o respectivo resultado. Simples.
+O código lê o número inserido pelo usuário, para printar a tabuada o código usa um loop for para multiplicar o número do usuário por i, que aumenta até chegar em dez e printa algo como: n * i = r. Sendo n o número inserido pelo usuário, i é o número da múltiplicação (1 a 10) e r o respectivo resultado. Simples.
 
 ## Como rodar o código? Onde? Intruções aqui:
 
