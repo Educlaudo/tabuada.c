@@ -31,14 +31,20 @@ Lá você pode copiar e colar o código num compiler de internet como o onlineGD
 ### Se quiser copiar e colar no VSCode, faça isso:
 
 PS: Se for fazer no VSCode, siga os seguintes passos:
+
+1. Acesse o VSCode
+2. Crie um novo arquivo C
+3. Nomeie seu arquivo como preferir
+4. Abra o terminal e execute as instruções abaixo
+
 No terminal crie um arquivo.c, pod eter o nome que desejar:
 
-        $ code tabuada.c
+        $ code main.c
 
 Para rodar tem que fazer o make do arquivo e então dar ./, o ./ dá run no código, e o make deixa ele rodável:
 
-        $ make tabuada
-        $ ./tabuada
+        $ make main
+        $ ./main
 
 E então o código vai rodar. ;)
 
