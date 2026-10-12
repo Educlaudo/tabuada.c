@@ -69,6 +69,8 @@ Dê enter, e o resultado esperado é o seguinte:
 
 O texto oficial sobre a licensa está aqui: https://opensource.org/license/mit e https://mit-license.org/
 
+**Este repositório é protegido pela <a href="./LICENSE">MIT License</a>**
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Sobre o que está no código C:
