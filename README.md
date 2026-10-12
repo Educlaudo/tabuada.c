@@ -30,16 +30,21 @@ Lá você pode copiar e colar o código num compiler de internet como o onlineGD
 
 ![Exemplo de execução da tabuada](./assets/download_button.png)
 
-### Se quiser copiar e colar no VSCode, faça isso:
+### Se for rodar no VSCode
 
-PS: Se for fazer no VSCode, siga os seguintes passos:
+PS: Lembrando, o código pode ser rodado em qualquer compiler de C, mas vou ensinar o caminho do VSC
 
-1. Acesse o VSCode
-2. Crie um novo arquivo C
-3. Nomeie seu arquivo como preferir
-4. Abra o terminal e execute as instruções abaixo
+*Primeiro, você deve ter baixado o VSC na sua máquina.*
 
-No terminal crie um arquivo.c, pod eter o nome que desejar:
+Assim que você baixar o código main.c, ele aparecerá na sua janela de downloads, mais ou menos assim:
+
+<img width="340" height="103" alt="download_mainc" src="https://github.com/user-attachments/assets/fa501521-eb2c-457e-a4a0-2b694237e868" />
+
+Se você clicar no arquivo main.c, você será diretamente direcionado ao aplicativo do VSC.
+
+Abra o terminal.
+
+No terminal crie um arquivo.c, pode ter o nome que desejar:
 
         $ code main.c
 
