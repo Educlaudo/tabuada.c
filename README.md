@@ -6,7 +6,7 @@ Esse código funciona com uma simples tabuada onde o usuário insere um número 
 
 Funciona de uma maneira simples, o usuário da run no código e insere um número, e dá play, como mostrado na imagem:
 
-![Exemplo de execução da tabuada](./assets/tabuada_450.png)
+![Exemplo de execução da tabuada do 560](./assets/tabuada_450.png)
 
 O código lê o número inserido pelo usuário e verifica se está entre 1 e 1000, por meio de um if, se estiver adequado o código prossegue normalmente (return 0) se não ele retorna 1 e para. Para printar a tabuada o código usa um loop for para multiplicar o número do usuário por i, que aumenta até chegar em dez e printa algo como: n * i = r. Sendo n o número inserido pelo usuário, i é o número da múltiplicação (1 a 10) e r o respectivo resultado. Simples.
 
@@ -16,19 +16,19 @@ Para rodar o código, é simples, pode ser copiado e colado em qualquer platafor
 
 Para baixar o arquivo basta apenas usar a função "fork" do próprio github, como indicado pela seta verde na imagem abaixo:
 
-![Exemplo de execução da tabuada](./assets/fork_button.png)
+![O botão do fork está aqui](./assets/fork_button.png)
 
 Ao dar o fork, você será direcionado ao seu github e devera escolher o nome do seu arquivo clonado, como mostrando na seguinte imagem:
 
-![Exemplo de execução da tabuada](./assets/create_new_fork.png)
+![Crie o seu fork](./assets/create_new_fork.png)
 
 Uma vez feito isto, basta clicar no arquivo main.c
 
-![Exemplo de execução da tabuada](./assets/pastas.png)
+![Onde está o arquivo main.c?](./assets/pastas.png)
 
 Lá você pode copiar e colar o código num compiler de internet como o onlineGDB ou o Visual Studio Code, ou então baixar o arquivo no botão indicado pela seta verde na imagem:
 
-![Exemplo de execução da tabuada](./assets/download_button.png)
+![Botão para fazer download do arquivo main.c](./assets/download_button.png)
 
 ### Se for rodar no VSCode
 
@@ -38,7 +38,7 @@ PS: Lembrando, o código pode ser rodado em qualquer compiler de C, mas vou ensi
 
 Assim que você baixar o código main.c, ele aparecerá na sua janela de downloads, mais ou menos assim:
 
-<img width="340" height="103" alt="download_mainc" src="https://github.com/user-attachments/assets/fa501521-eb2c-457e-a4a0-2b694237e868" />
+![Arquivo main.c nos downloads](./assets/download_mainc.png)
 
 Se você clicar no arquivo main.c, você será diretamente direcionado ao aplicativo do VSC.
 
@@ -47,6 +47,10 @@ Abra o terminal.
 No terminal crie um arquivo.c, pode ter o nome que desejar:
 
         $ code main.c
+        
+        // Poderia ser arquivo.c, tabuada.c, como você preferir
+
+Cole o código do main.c nesse novo arquivo
 
 Para rodar tem que fazer o make do arquivo e então dar ./, o ./ dá run no código, e o make deixa ele rodável:
 
