@@ -8,6 +8,8 @@ Funciona de uma maneira simples, o usuário da run no código e insere um númer
 
 ![Exemplo de execução da tabuada](./tabuada_450.png)
 
+O código lê o número inserido pelo usuário e verifica se está entre 1 e 1000, por meio de um if, se estiver adequado o código prossegue normalmente (return 0) se não ele retorna 1 e para. Para printar a tabuada o código usa um loop for para multiplicar o número do usuário por i, que aumenta até chegar em dez e printa algo como: n * i = r. Sendo n o número inserido pelo usuário, i é o número da múltiplicação (1 a 10) e r o respectivo resultado. Simples.
+
 ## Como rodar o código? Onde? Intruções aqui:
 
 Para rodar o código, é simples, pode ser copiado e colado em qualquer plataforma para rodar o código, como vscode, mycompiler e onlineGDB.
@@ -76,9 +78,3 @@ Dê enter, e o resultado esperado é o seguinte:
 O texto oficial sobre a licensa está aqui: https://opensource.org/license/mit e https://mit-license.org/
 
 **Este repositório é protegido pela <a href="./LICENSE">MIT License</a>**
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Sobre o que está no código C:
-
-O código lê o número inserido pelo usuári e verifica se está entre 1 e 1000, por meio de um if, se estiver adequado o código prossegue normalmente (return 0) se não ele retorna 1 e para. Para printar a tabuada o código usa um loop for para multiplicar o número do usuário por i, que aumenta até chegar em dez e printa algo como: n * i = r. Sendo n o número inserido pelo usuário, i é o número da múltiplicação (1 a 10) e r o respectivo resultado. Simples.
