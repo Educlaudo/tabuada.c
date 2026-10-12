@@ -6,7 +6,7 @@ Esse código funciona com uma simples tabuada onde o usuário insere um número 
 
 Funciona de uma maneira simples, o usuário da run no código e insere um número, e dá play, como mostrado na imagem:
 
-<img width="122" height="154" alt="Screenshot 2026-10-11 at 20 58 17" src="https://github.com/user-attachments/assets/007edeed-6bf7-4bfc-ac14-e6a28e311bb9" />
+![Exemplo de execução da tabuada](./tabuada_450.png)
 
 ## Como rodar o código? Onde? Intruções aqui:
 
@@ -14,19 +14,19 @@ Para rodar o código, é simples, pode ser copiado e colado em qualquer platafor
 
 Para baixar o arquivo basta apenas usar a função "fork" do próprio github, como indicado pela seta verde na imagem abaixo:
 
-<img width="1421" height="470" alt="Screenshot 2026-10-11 at 21 10 26" src="https://github.com/user-attachments/assets/d7169ac8-06e8-42ff-992a-c0fc91ff1e62" />
+![Exemplo de execução da tabuada](./fork_button.png)
 
 Ao dar o fork, você será direcionado ao seu github e devera escolher o nome do seu arquivo clonado, como mostrando na seguinte imagem:
 
-<img width="760" height="585" alt="Screenshot 2026-10-11 at 21 38 28" src="https://github.com/user-attachments/assets/8cc233c3-661a-4ec4-be84-258da2a26a3d" />
+![Exemplo de execução da tabuada](./create_new_fork.png)
 
 Uma vez feito isto, basta clicar no arquivo main.c
 
-<img width="305" height="214" alt="Screenshot 2026-10-11 at 21 41 14" src="https://github.com/user-attachments/assets/dd79c7ec-5226-421a-8a8e-b350563cc73b" />
+![Exemplo de execução da tabuada](./pastas.png)
 
 Lá você pode copiar e colar o código num compiler de internet como o onlineGDB ou o Visual Studio Code, ou então baixar o arquivo no botão indicado pela seta verde na imagem:
 
-<img width="1139" height="473" alt="Screenshot 2026-10-11 at 21 42 03" src="https://github.com/user-attachments/assets/b1fda2df-e57d-4e2b-94b9-cb007d40f358" />
+![Exemplo de execução da tabuada](./download_button.png)
 
 ### Se quiser copiar e colar no VSCode, faça isso:
 
