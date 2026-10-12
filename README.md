@@ -57,7 +57,7 @@ Dê enter, e o resultado esperado é o seguinte:
 
 ** A LICENSE escolhida para este arquivo é a licensa do MIT, que te dá muita liberdade para clonar e mecher no arquivo clonado como bem entender. Seja feliz.
 
-O texto oficial sobre a licensa está aqui: https://opensource.org/license/mit
+O texto oficial sobre a licensa está aqui: https://opensource.org/license/mit e https://mit-license.org/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
