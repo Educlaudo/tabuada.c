@@ -1,10 +1,14 @@
 # tabuada.c
 
+## Sobre o Código:
+
 Esse código funciona com uma simples tabuada onde o usuário insere um número de 1 a 1000, e então é entregue a ele a tabuada daquele número, de 1 a 10. É ótimo para verificar a tabuada de um número rapidamente ou brincar de indentificar padrões.
 
 Funciona de uma maneira simples, o usuário da run no código e insere um número, e dá play, como mostrado na imagem:
 
 <img width="122" height="154" alt="Screenshot 2026-10-11 at 20 58 17" src="https://github.com/user-attachments/assets/007edeed-6bf7-4bfc-ac14-e6a28e311bb9" />
+
+## Como rodar o código? Onde? Intruções aqui:
 
 Para rodar o código, é simples, pode ser copiado e colado em qualquer plataforma para rodar o código, como vscode, mycompiler e onlineGDB.
 
@@ -24,6 +28,8 @@ Lá você pode copiar e colar o código num compiler de internet como o onlineGD
 
 <img width="1139" height="473" alt="Screenshot 2026-10-11 at 21 42 03" src="https://github.com/user-attachments/assets/b1fda2df-e57d-4e2b-94b9-cb007d40f358" />
 
+### Se quiser copiar e colar no VSCode, faça isso:
+
 PS: Se for fazer no VSCode, siga os seguintes passos:
 No terminal crie um arquivo.c, pod eter o nome que desejar:
 
@@ -35,6 +41,8 @@ Para rodar tem que fazer o make do arquivo e então dar ./, o ./ dá run no cód
         $ ./tabuada
 
 E então o código vai rodar. ;)
+
+## Testando o código
 
 Para testar, ao rodar o código seja lá qual for o compiler escolhido, teste o código usando o número que preferir.
 
@@ -55,12 +63,14 @@ Dê enter, e o resultado esperado é o seguinte:
     45 * 9 = 405
     45 * 10 = 450
 
+## Sobre a License
+
 ** A LICENSE escolhida para este arquivo é a licensa do MIT, que te dá muita liberdade para clonar e mecher no arquivo clonado como bem entender. Seja feliz.
 
 O texto oficial sobre a licensa está aqui: https://opensource.org/license/mit e https://mit-license.org/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Sobre o código:
+# Sobre o que está no código C:
 
 O código lê o número inserido pelo usuári e verifica se está entre 1 e 1000, por meio de um if, se estiver adequado o código prossegue normalmente (return 0) se não ele retorna 1 e para. Para printar a tabuada o código usa um loop for para multiplicar o número do usuário por i, que aumenta até chegar em dez e printa algo como: n * i = r. Sendo n o número inserido pelo usuário, i é o número da múltiplicação (1 a 10) e r o respectivo resultado. Simples.
